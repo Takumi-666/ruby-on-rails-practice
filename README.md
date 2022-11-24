@@ -1,7 +1,7 @@
 # README
 
 https://guides.rubyonrails.org/getting_started.html
-このホームページを参考にruby on railsで掲示板を作りました。
+こちらのホームページを参考にruby on railsで掲示板を作りました。
 
 
 
